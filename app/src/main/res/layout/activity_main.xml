@@ -51,7 +51,7 @@
         app:layout_constraintVertical_bias="0.324" />
 
     <CheckBox
-        android:id="@+id/checkBoxBlocca"
+        android:id="@+id/checkBlocca"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="35dp"
@@ -64,7 +64,7 @@
         app:layout_constraintVertical_bias="0.601" />
 
     <CheckBox
-        android:id="@+id/checkBoxInverti"
+        android:id="@+id/checkInverti"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Inverti"
